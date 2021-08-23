@@ -1,5 +1,6 @@
 # PanoceanCanal v1.0.0
 # Author: Caerfinon 08/23/2021
+![Canal Map](https://i.imgur.com/tJjIGcO.png)
 Panocean Canal - A canal that links the oceans and allows naval circumnavigation of stock Kerbin.
 
 The mod only provides configuration files for other mods. It makes no modification to these other mods original assets or functions. 
