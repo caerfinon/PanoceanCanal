@@ -9,7 +9,7 @@ You must acquire and install these mods for your own personal use and must abide
 This mod **requires** the following to work;
 
 - **Kerbal Konstructs**
-- **Kerbin Side Core** (this is part of the old Kerbin Side containing only statics available on CKAN, ** DO NOT USE  Kerbin Side Complete ** )
+- **Kerbin Side Core** OR **Kerbin Side Complete** (Do not use the latter if you are also using Kerbinside Remastered)
 - **Omega's Stockalike Structures: No Textures Required**
 
 It is compatible with Kerbin Side Remastered and associated mods. 
